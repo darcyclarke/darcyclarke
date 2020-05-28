@@ -1,6 +1,6 @@
 ### Hi, I'm Darcy!
 
-#### I’m a Developer, Designer, Founder, Mentor, Speaker & UX Advocate creating award-winning digital experiences with a holistic approach to problem solving for over a decade
+#### I’m a Developer, Designer, Founder, Mentor, Speaker & UX Advocate creating award-winning digital experiences with a holistic approach to problem solving for over a decade.
 
 #### tl;dr
 
