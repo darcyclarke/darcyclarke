@@ -2,6 +2,8 @@
 
 #### I’m a Developer, Designer, Founder, Mentor, Speaker & UX Advocate creating award-winning digital experiences with a holistic approach to problem solving
 
+I currently manage the @npmjs CLI / Open Source Team here @GitHub (`npm install -g npm`)
+
 #### tl;dr
 
 * 🛠 Develop products & experiences utilizing the latest in web technologies
