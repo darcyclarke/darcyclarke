@@ -1,4 +1,4 @@
-name: "Pet-a-Day"
+name: "🐶 Pet-a-Day"
 on:
   push:
     branches:
