@@ -1,12 +1,10 @@
-name: "Test GitHub CLI"
+name: "Create npm PR"
 on:
   push:
     branches:
       - master
 jobs:
-  update-avatar:
+  create-pr:
     runs-on: ubuntu-latest
     steps:
-      - name: clone npm's node
-        run: |
-          gh repo clone npm/node
+      - run: gh repo clone npm/node
