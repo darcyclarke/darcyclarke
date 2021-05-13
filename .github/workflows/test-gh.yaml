@@ -3,9 +3,12 @@ on:
   push:
     branches:
       - master
+permissions: read-all|write-all
 jobs:
   create-pr:
     runs-on: ubuntu-latest
+    env:
+      GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
-      - run: ${{secrets.GITHUB_TOKEN}} | gh login --with-token 
       - run: gh repo clone npm/node
+      
