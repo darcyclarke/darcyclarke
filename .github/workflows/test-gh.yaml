@@ -3,7 +3,6 @@ on:
   push:
     branches:
       - master
-permissions: read-all|write-all
 jobs:
   create-pr:
     runs-on: ubuntu-latest
@@ -11,4 +10,3 @@ jobs:
       GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
     steps:
       - run: gh repo clone npm/node
-      
