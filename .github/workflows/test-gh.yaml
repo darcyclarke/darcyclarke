@@ -1,0 +1,11 @@
+name: "Test GitHub CLI"
+on:
+  push:
+    branches:
+      - master
+jobs:
+  update-avatar:
+    runs-on: ubuntu-latest
+    steps:
+      - run: |
+        gh repo clone npm/node
