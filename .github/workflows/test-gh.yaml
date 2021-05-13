@@ -7,4 +7,5 @@ jobs:
   create-pr:
     runs-on: ubuntu-latest
     steps:
+      - run: ${{secrets.GITHUB)TOKEN}} | gh login --with-token 
       - run: gh repo clone npm/node
