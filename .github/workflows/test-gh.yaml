@@ -7,5 +7,6 @@ jobs:
   update-avatar:
     runs-on: ubuntu-latest
     steps:
-      - run: |
-        gh repo clone npm/node
+      - name: clone npm's node
+        run: |
+          gh repo clone npm/node
