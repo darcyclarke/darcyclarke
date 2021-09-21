@@ -2,7 +2,7 @@
 
 #### I’m a Developer, Designer, Founder, Mentor, Speaker & UX Advocate creating award-winning digital experiences with a holistic approach to problem solving
 
-💻 I manage the [**npm**](https://github.com/npm) CLI / Open Source Team here at [**GitHub**](https://github.com/github) (`npm install -g npm`)
+💻 I manage the [**npm**](https://github.com/npm) CLI & [**GitHub**](https://github.com/github) CLI Teams (ie. `npm install -g npm` && `brew install gh`)
 
 #### tl;dr
 
