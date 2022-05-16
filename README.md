@@ -19,7 +19,7 @@ I manage the [`npm`](https://github.com/npm) & [`gh`](https://github.com/github)
 * 🌎 Contributing to numerous open source projects, foundations & initiatives
 * 🎓 Teaching classes & workshops for post-secondary & professional development audiences
 
-#### Me professional interests include (but are not limited to): 
+#### My professional interests include (but are not limited to): 
 * ✨ Leadership
 * 🤖 Tooling & Automation
 * ⛓ Software Supply Chain
