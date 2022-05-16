@@ -4,7 +4,7 @@ I manage the [`npm`](https://github.com/npm) & [`gh`](https://github.com/github)
 
 ### tl;dr introduction...
 
-#### My experience includes (but is not limited to):
+#### Experience includes (but is not limited to):
 * 👔 Directing managers, teams, leads & ICs (engineering, devops, security, product & design)
 * ❤️ Leading with empathy & a holistic approach to problem solving
 * 🌱 Leveraging a growth mindset & culture to build & scale teams
@@ -19,7 +19,7 @@ I manage the [`npm`](https://github.com/npm) & [`gh`](https://github.com/github)
 * 🌎 Contributing to numerous open source projects, foundations & initiatives
 * 🎓 Teaching classes & workshops for post-secondary & professional development audiences
 
-#### My professional interests include (but are not limited to): 
+#### Professional interests include (but are not limited to): 
 * ✨ Leadership
 * 🤖 Tooling & Automation
 * ⛓ Software Supply Chain
