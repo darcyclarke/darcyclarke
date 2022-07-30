@@ -1,4 +1,4 @@
-name: "Create npm PR"
+name: "Create PR"
 on:
   push:
     branches:
