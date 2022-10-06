@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm Darcy!
 
-I manage the [`npm`](https://github.com/npm) & [`gh`](https://github.com/github) CLI Teams here at [**GitHub**](https://github.com/home)
+I manage the [`npm`](https://github.com/npm) CLI/OSS Team here at [**GitHub**](https://github.com/home)
 
 ### tl;dr introduction...
 
