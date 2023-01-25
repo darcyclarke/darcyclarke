@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm Darcy!
 
-I manage the [`npm`](https://github.com/npm) CLI/OSS Team here at [**GitHub**](https://github.com/home)
+I'm building something new... was previously the manager for the [`npm`](https://github.com/npm) & [`gh`](https://github.com/cli) CLI/OSS Teams at [**GitHub**](https://github.com/home)
 
 ### tl;dr introduction...
 
@@ -28,11 +28,3 @@ I manage the [`npm`](https://github.com/npm) CLI/OSS Team here at [**GitHub**](h
 * 🧪 Product Strategy & Development
 * 🎨 User Experience & Interface Design
 * 💼 Startups & Entrepreneurship
-
-#### Try out `npm` & `gh` today!
-
-```bash
-# npm comes with node by default
-brew install node
-brew install gh
-```
