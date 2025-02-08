@@ -1,6 +1,6 @@
 ### :wave: Hi, I'm Darcy!
 
-I'm building something new... was previously the manager for the [`npm`](https://github.com/npm) & [`gh`](https://github.com/cli) CLI/OSS Teams at [**GitHub**](https://github.com/home)
+I'm building the future of packaging at @vltpkg... was previously the manager for the [`npm`](https://github.com/npm) & [`gh`](https://github.com/cli) CLI/OSS Teams at [**GitHub**](https://github.com/home) & [**npm Inc.**](https://npmjs.com) respectively.
 
 ### tl;dr introduction...
 
